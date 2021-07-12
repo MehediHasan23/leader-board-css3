@@ -4,6 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #E5E5E5;
+    
 }
 /* top players section */
 main{
@@ -154,3 +155,10 @@ top blogs styles
     }
        
 }
+
+/*----------
+ navigation
+ ----------*/
+ /* nav ul li {
+    text-decoration: none;
+} */
